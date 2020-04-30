@@ -62,8 +62,8 @@ logo ="""
 █╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝---- █   
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
 \033[1;97m⊱• ────────────  ──────────── •⊰
-\033[1;96m≫ \033[1;96m CODDED BY :\033[1;95m MUHAMMAD HMAD
-\033[1;96m≫ \033[1;96m FACEBOOK:\033[1;95m Muhammad Ahnad
+\033[1;96m≫ \033[1;96m CODDED BY :\033[1;95m MUHAMMAD AHMAD
+\033[1;96m≫ \033[1;96m FACEBOOK:\033[1;95m Muhammad Ahmad
 \033[1;96m≫ \033[1;96m WHATSAPP :\033[1;95m +92308-9119133
 \033[1;96m≫ \033[1;96m NOTE :\033[1;95m DONOT  USE WIFI
 \033[1;96m≫ \033[1;96m NOTE :\033[1;95m EDITING MY SCRIPT WILL NOT MAKE YOU A CODER
@@ -71,10 +71,31 @@ logo ="""
 \033[1;96m≫ \033[1;96m Disclamiar :\033[1;95m THIS IS FOR EDUCATIONAL PURPOSE ONLY
 \033[1;96m≫ \033[1;96m WARNING [༗]:\033[1;95m I'M NOT RESPONSIBLE FOR ANY ILLEGAL USE 
 \033[1;97m⊱• ────────────  ──────────── •⊰ 
-╔╗─────────╔═╗────
-║╚╗╔═╗─╔══╗╠═║╔═╗─
-║║║║╬╚╗║║║║║═╣║╬╚╗
-╚╩╝╚══╝╚╩╩╝╚═╝╚══╝
+
+
+ █▄░▄█
+
+ █░█░█
+
+ ▀░░░▀
+
+ ▄▀▄
+
+ █▀█
+
+ ▀░▀
+
+ ▄▀▀
+
+ ░▀▄
+
+ ▀▀░
+
+ █░▄▀
+
+ █▀▄░
+
+ ▀░▀▀
 ───Game Changer─────
 ⊱• ──────────── ──────────── ──────────── •⊰"""
 
