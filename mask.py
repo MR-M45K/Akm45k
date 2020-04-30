@@ -1,9 +1,9 @@
 #!/usr/bin/python2
 #coding=utf-8
-#This Script Is Written By Muhammad Hamza
+#This Script Is Written By Muhammad Ahmad
 #Editing My Script Will Not Make You A Codder
   #=================================#
-  # Hamza The Official Programmrer  #   #                                 #
+  # Ahmad The Official Programmrer  #   #                                 #
   #             [ H.O.P ]           #
   #=================================#
 
@@ -51,7 +51,7 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.01)
 		
-#Dev:hamza
+#Dev:ahmad
 ##### LOGO #####
 logo ="""
 
@@ -62,9 +62,9 @@ logo ="""
 █╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝---- █   
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
 \033[1;97m⊱• ────────────  ──────────── •⊰
-\033[1;96m≫ \033[1;96m CODDED BY :\033[1;95m MUHAMMAD HAMZA
-\033[1;96m≫ \033[1;96m FACEBOOK:\033[1;95m Muhammad Hamza
-\033[1;96m≫ \033[1;96m WHATSAPP :\033[1;95m +92309-7992202
+\033[1;96m≫ \033[1;96m CODDED BY :\033[1;95m MUHAMMAD HMAD
+\033[1;96m≫ \033[1;96m FACEBOOK:\033[1;95m Muhammad Ahnad
+\033[1;96m≫ \033[1;96m WHATSAPP :\033[1;95m +92308-9119133
 \033[1;96m≫ \033[1;96m NOTE :\033[1;95m DONOT  USE WIFI
 \033[1;96m≫ \033[1;96m NOTE :\033[1;95m EDITING MY SCRIPT WILL NOT MAKE YOU A CODER
 \033[1;96m≫ \033[1;96m NOTE :\033[1;95m HAVING PROBLEM? WHATSAPP ME.
@@ -155,8 +155,8 @@ jalan('\033[1;32m⊱• ──────────── ──────�
 
 jalan('\033[1;34m⊱• ──────────── TOOL LOGIN ──────────── •⊰')
 
-CorrectUsername = "hamza"
-CorrectPassword = "1626"
+CorrectUsername = "M45K"
+CorrectPassword = "M45K"
 
 loop = 'true'
 while (loop == 'true'):
@@ -266,7 +266,7 @@ def menu():
 	print "  \033[1;32m⚡\033[1;96m      Logged in User Info\033[1;32m⚡"
 	print "	   \033[1;97m Name\033[1;97m:\033[1;94m"+nama+"\033[1;97m               "
 	print "	   \033[1;97m ID\033[1;97m:\033[1;94m"+id+"\x1b[1;97m              "
-	print "\033[1;93mHAMZA THE OFFICIAL PROGRAMMER[ H•O•P ]"
+	print "\033[1;93mAHMAD THE OFFICIAL PROGRAMMER[ H•O•P ]"
 	
 	print "\033[1;32m⊱• ──────────── ──────────── ──────────── •⊰"
 		
@@ -327,7 +327,7 @@ def pilih_super():
 		print logo
 		idt = raw_input("\033[1;32m〄\033[1;94mInput PublIc Id Username\033[1;33m: \033[1;97m")
 		print """\033[1;32m
-⊱• ───────── HAMZA THE OFFICIAL PROGRAMMER[ H.O.P ] ───────── •⊰
+⊱• ───────── MASK THE OFFICIAL PROGRAMMER[ H.O.P ] ───────── •⊰
 """
 
 		try:
@@ -355,7 +355,7 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;94mCloning Is In Progress\033[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 	print """
-⊱• ───────── HAMZA THE OFFICIAL PROGRAMMER[ H.O.P ] ───────── •⊰
+⊱• ───────── MASK THE OFFICIAL PROGRAMMER[ H.O.P ] ───────── •⊰
 
 ─────█─▄▀█──█▀▄─█──
 ────▐▌──────────▐▌──
@@ -584,7 +584,7 @@ def pilih_super():
 	p = ThreadPool(50)
 	p.map(main, id)
 	print "\033[1;32m⊱• ──────────── ──────────── ──────────── •⊰"
-	print "  \033[1;93m⊱•─── Developed By Muhammad Hamza ─── •⊰" #Dev:hamza
+	print "  \033[1;93m⊱•─── Developed By Muhammad AHMAD ─── •⊰" #Dev:hamza
 	print '\033[1;96m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 anony.py)↩\033[1;97m....'
 	print"\033[1;92mTotal OK/\x1b[1;93mCP \033[1;93m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print """
@@ -602,7 +602,7 @@ def pilih_super():
 ┃┏┓┃┏┓┃┏━┫┏┳┻━╯┃
 ┗┛┗┻┛┗┻┛┊┗┛┗━━━╯
 Checkpoint ID Open After 7 Days
- Having Problem Whatsapp Me :+923097992202"""
+ Having Problem Whatsapp Me :+923089119133"""
 	
 	raw_input("\n\033[1;93m[\033[1;96mBack\033[1;93m]")
 	menu()
